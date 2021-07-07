@@ -35,12 +35,12 @@
     </CustomField>
   </CustomFields>
   <OptionGroups>
-     <OptionGroup>
-       <name>email_recipient_system</name>
-       <title>Recipient System</title>
-       <is_reserved>1</is_reserved>
-       <is_active>1</is_active>
-     </OptionGroup>
+    <OptionGroup>
+      <name>email_recipient_system</name>
+      <title>Recipient System</title>
+      <is_reserved>1</is_reserved>
+      <is_active>1</is_active>
+    </OptionGroup>
    </OptionGroups>    
   <OptionValues>
     <OptionValue>
